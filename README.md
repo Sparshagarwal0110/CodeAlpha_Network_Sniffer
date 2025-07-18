@@ -76,4 +76,4 @@ python packet_sniffer.py
 
 ## 📜 License
 
-MIT License © 2025 [YourName]
+MIT License © 2025 [Sparsh Agarwal]
